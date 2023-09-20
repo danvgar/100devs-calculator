@@ -30,3 +30,4 @@ I'm not sure if my constructors are setup cleanly...
  - Clean up code + make it dry
  - Fix float errors in a clean manner (e.g. 8.2 - 0.2 = 7.999999)
  - Add comma separation for large numbers (This will probably make all sorts of bugs when converting and consistently displaying arrays, strings, and number)
+ - Add edge cases, for example if starting with an operator, adding more than one decimal place
