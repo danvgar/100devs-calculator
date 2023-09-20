@@ -24,3 +24,9 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+## Optimizations
+
+ - Add keystroke functionality
+ - Clean up code + make it dry
+ - Fix float errors in a clean manner (e.g. 8.2 - 0.2 = 7.999999)
+ - Add comma separation for large numbers (This will probably make all sorts of bugs when converting and consistently displaying arrays, strings, and number)
