@@ -32,3 +32,5 @@ I'm not sure if my constructors are setup cleanly...
  - Add comma separation for large numbers (This will probably make all sorts of bugs when converting and consistently displaying arrays, strings, and number)
  - Add edge cases, for example if starting with an operator, adding more than one decimal place
  - What happens if clicking an operator more than ones? Calc should either ignore or present an error
+ - Need to comment out code better
+ - Need to update this readme!
